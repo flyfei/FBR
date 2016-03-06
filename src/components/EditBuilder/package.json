@@ -1,0 +1,6 @@
+{
+  "name": "EditBuilder",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EditBuilder.js"
+}
